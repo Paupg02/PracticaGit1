@@ -74,7 +74,7 @@ public class Perro implements Animal {
          */
 	@Override
 	public String toString() {
-		return "Perro [nombre=" + nombre + ", raza=" + raza + ", edad=" + edad + "]";
+		return "Perro " + nombre + ", raza " + raza + " y edad " + edad;
 	}
 
         /**
